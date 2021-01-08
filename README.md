@@ -1,2 +1,3 @@
 # designPatternsInJava
-Repository for exercies done while following this website: https://www.javatpoint.com/design-patterns-in-java
+Repository for exercies done while reading "Java Design Patterns: A Hands-On
+Experience with Real-World Examples, Second Edition" by Valskaran Sarcar
